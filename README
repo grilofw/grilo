@@ -84,7 +84,7 @@ $ git clone git://git.gnome.org/grilo-plugins
 $ cd grilo-plugins
 $ ./autogen.sh --enable-uninstalled
 $ make
-$ source set-plugins-env.sh
+$ source ./setup-plugins-env.sh
 
 # Running grilo-test-ui
 
